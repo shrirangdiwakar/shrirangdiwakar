@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirangdiwakar&layout=compact&theme=great-gatsby" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirangdiwakar&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Shrirang's github stats" />
-</p>
+<h3>💻 GitHub Profile Stats</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirangdiwakar&show_icons=true&theme=great-gatsby" alt="Shri's github stats" />
+<img align="center" src="https://streak-stats.demolab.com?user=shrirangdiwakar&theme=tokyonight" alt="github-streaks"/>
+
+
 
