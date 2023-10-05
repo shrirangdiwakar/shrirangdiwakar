@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirangdiwakar&show_icons=true&theme=great-gatsby" alt="Shri's github stats" />
 <img align="center" src="https://streak-stats.demolab.com?user=shrirangdiwakar&theme=tokyonight" alt="github-streaks" />
 
+<h2>🏷️ Holopin Badges</h2>
+<img align="center" src="https://holopin.me/@shrirangdiwakar" alt="Shrirang's github stats" />
 
 
